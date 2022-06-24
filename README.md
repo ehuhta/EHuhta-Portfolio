@@ -10,5 +10,6 @@ A wesite to display the portfolio of Ellie Huhta
 ## Website
 https://ehuhta.github.io/EHuhta-Portfolio/
 
+
 ## Contribution
 Made with ❤️ by Ellie Huhta
